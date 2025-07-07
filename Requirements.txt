@@ -1,0 +1,13 @@
+yaml
+---
+
+## 📦 Requirements
+
+- AWS Account with proper IAM access
+- AWS CLI installed and configured
+- Amazon S3 Bucket
+- Amazon QuickSight enabled in your AWS Account
+- Sample dataset: Netflix titles metadata (CSV)
+
+---
+
